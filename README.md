@@ -4,8 +4,6 @@ Examples showing *vulky* and how to create rendering applications in few lines o
 Vulky exposes a simplified view of Vulkan API, but at the same time is compact, elegant and
 with little overhead.
 
-![](mandelbrot.webp)
-
 <div style="width: 200px; display: inline-block; vertical-align: top">
     <a href="./e01_create_and_destroy_device.ipynb">
     <img src="./docs/images/mandelbrot.webp" alt="drawing" width="200px"/>
