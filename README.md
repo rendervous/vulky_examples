@@ -11,6 +11,7 @@ In google colab execute next cell to install all dependencies:
 !sudo apt-get install vulkan-tools glslang-tools libvulkan-dev vulkan-validationlayers-dev spirv-tools
 !pip install pyav
 !git clone https://github.com/rendervous/vulky
+!git clone https://github.com/rendervous/vulky_data
 ```
 
 <table>
