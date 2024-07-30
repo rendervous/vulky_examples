@@ -1,0 +1,3 @@
+[submodule "vulky_data"]
+	path = vulky_data
+	url = https://github.com/rendervous/vulky_data
