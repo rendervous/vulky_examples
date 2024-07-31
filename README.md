@@ -7,15 +7,15 @@ with little overhead.
 In google colab execute next cell to install all dependencies:
 
 ```shell
-!sudo apt-get update
-!sudo apt-get install vulkan-tools glslang-tools libvulkan-dev vulkan-validationlayers-dev spirv-tools
+!sudo apt-get update -y
+!sudo apt-get install -y libnvidia-gl-555 vulkan-tools glslang-tools vulkan-validationlayers-dev
 !pip install pyav
 !git clone https://github.com/rendervous/vulky
 !git clone https://github.com/rendervous/vulky_data
 ```
 
 <table>
-<tr>
+<tr> 
 <td>
     <a href="./e01_create_and_destroy_device.ipynb">
     <img src="./docs/images/teaser1.jpg" alt="drawing" width="200px"/>
@@ -103,6 +103,18 @@ In google colab execute next cell to install all dependencies:
 </td>
 </tr>
 
+
+<tr>
+<td>
+    <a href="./e08_shadow_cast.ipynb">
+    <img src="./docs/images/teaser8.webp" alt="drawing" width="200px"/>
+    </a>
+</td>
+<td>
+    <b>Shadow cast:</b> Raytracing pipeline, raytracing programs.<br/>
+    <a href="https://colab.research.google.com/github/rendervous/vulky_examples/blob/main/e08_shadow_cast.ipynb">open in colab</a>
+</td>
+</tr>
 </table>
 
 
