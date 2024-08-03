@@ -115,6 +115,20 @@ In google colab execute next cell to install all dependencies:
     <a href="https://colab.research.google.com/github/rendervous/vulky_examples/blob/main/e08_shadow_cast.ipynb">open in colab</a>
 </td>
 </tr>
+
+
+<tr>
+<td>
+    <a href="./e09_whitted_raytracing.ipynb">
+    <img src="./docs/images/teaser9.webp" alt="drawing" width="200px"/>
+    </a>
+</td>
+<td>
+    <b>Whitted Raytracing:</b> GPU Pointers <br/>
+    <a href="https://colab.research.google.com/github/rendervous/vulky_examples/blob/main/e09_whitted_raytracing.ipynb">open in colab</a>
+</td>
+</tr>
+
 </table>
 
 
