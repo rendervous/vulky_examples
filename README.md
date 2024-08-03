@@ -3,35 +3,35 @@
 <table>
 <tr>
 <td>
-<img src="teaser1.jpg" width="100px"/>
+<img src="./docs/images/teaser1.jpg" width="100px"/>
 </td>
 <td>
-<img src="teaser2.webp" width="100px"/>
+<img src="./docs/images/teaser2.webp" width="100px"/>
 </td>
 <td>
-<img src="teaser3.webp" width="100px"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="teaser4.jpg" width="100px"/>
-</td>
-<td>
-<img src="teaser5.webp" width="100px"/>
-</td>
-<td>
-<img src="teaser6.jpg" width="100px"/>
+<img src="./docs/images/teaser3.webp" width="100px"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="teaser7.webp" width="100px"/>
+<img src="./docs/images/teaser4.jpg" width="100px"/>
 </td>
 <td>
-<img src="teaser8.webp" width="100px"/>
+<img src="./docs/images/teaser5.webp" width="100px"/>
 </td>
 <td>
-<img src="teaser9.webp" width="100px"/>
+<img src="./docs/images/teaser6.jpg" width="100px"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="./docs/images/teaser7.webp" width="100px"/>
+</td>
+<td>
+<img src="./docs/images/teaser8.webp" width="100px"/>
+</td>
+<td>
+<img src="./docs/images/teaser9.webp" width="100px"/>
 </td>
 </tr>
 </table>
